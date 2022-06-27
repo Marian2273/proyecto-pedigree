@@ -8629,8 +8629,7 @@ h1 span {
     display: block;
     position: relative;
     margin: 0;
-    border: 1px solid #000;
-
+    border: 1px solid #6c757d;
 }
 .family-tree .tree-abuelos {
     width: 100%;
@@ -8638,7 +8637,7 @@ h1 span {
     display: block;
     position: relative;
     margin: 0;
-    border: 1px solid #000;
+    border: 1px solid #6c757d;
 
 }
 .family-tree .tree-bisabuelos {
@@ -8647,7 +8646,7 @@ h1 span {
     display: block;
     position: relative;
     margin: 0;
-    border: 1px solid #000;
+    border: 1px solid #6c757d;
 }
 .family-tree .tree-padres p {
     line-height: normal;
